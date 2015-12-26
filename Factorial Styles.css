@@ -1,0 +1,18 @@
+﻿body {
+  font-family:Arial,Helvettica,sans-serif;
+  background-color:pink;
+}
+
+
+h1 {
+  font-size:2em;
+  margin:0;
+  padding:0;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+input {
+	width: 140px;
+}
+
